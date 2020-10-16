@@ -1,0 +1,10 @@
+C:\Users\gradk\source\repos\Geometry1\Geometry1\bin\Debug\Geometry1.exe.config
+C:\Users\gradk\source\repos\Geometry1\Geometry1\bin\Debug\Geometry1.exe
+C:\Users\gradk\source\repos\Geometry1\Geometry1\bin\Debug\Geometry1.pdb
+C:\Users\gradk\source\repos\Geometry1\Geometry1\obj\Debug\Geometry1.csprojAssemblyReference.cache
+C:\Users\gradk\source\repos\Geometry1\Geometry1\obj\Debug\Geometry1.Form1.resources
+C:\Users\gradk\source\repos\Geometry1\Geometry1\obj\Debug\Geometry1.Properties.Resources.resources
+C:\Users\gradk\source\repos\Geometry1\Geometry1\obj\Debug\Geometry1.csproj.GenerateResource.cache
+C:\Users\gradk\source\repos\Geometry1\Geometry1\obj\Debug\Geometry1.csproj.CoreCompileInputs.cache
+C:\Users\gradk\source\repos\Geometry1\Geometry1\obj\Debug\Geometry1.exe
+C:\Users\gradk\source\repos\Geometry1\Geometry1\obj\Debug\Geometry1.pdb
