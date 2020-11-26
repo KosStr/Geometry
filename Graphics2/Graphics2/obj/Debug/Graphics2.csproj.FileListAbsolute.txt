@@ -1,0 +1,11 @@
+C:\Users\gradk\source\repos\Graphics2\Graphics2\bin\Debug\Graphics2.exe.config
+C:\Users\gradk\source\repos\Graphics2\Graphics2\bin\Debug\Graphics2.exe
+C:\Users\gradk\source\repos\Graphics2\Graphics2\bin\Debug\Graphics2.pdb
+C:\Users\gradk\source\repos\Graphics2\Graphics2\obj\Debug\Graphics2.csprojAssemblyReference.cache
+C:\Users\gradk\source\repos\Graphics2\Graphics2\obj\Debug\Graphics2.Form1.resources
+C:\Users\gradk\source\repos\Graphics2\Graphics2\obj\Debug\Graphics2.Properties.Resources.resources
+C:\Users\gradk\source\repos\Graphics2\Graphics2\obj\Debug\Graphics2.csproj.GenerateResource.cache
+C:\Users\gradk\source\repos\Graphics2\Graphics2\obj\Debug\Graphics2.csproj.CoreCompileInputs.cache
+C:\Users\gradk\source\repos\Graphics2\Graphics2\obj\Debug\Graphics2.exe
+C:\Users\gradk\source\repos\Graphics2\Graphics2\obj\Debug\Graphics2.pdb
+C:\Users\gradk\source\repos\Graphics2\Graphics2\obj\Debug\Graphics2.PlanetInput.resources
